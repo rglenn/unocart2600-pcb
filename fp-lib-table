@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name unocart-2600)(type KiCad)(uri ${KIPRJMOD}/unocart-2600.pretty)(options "")(descr ""))
+)

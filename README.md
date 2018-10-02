@@ -1,2 +1,3 @@
-# unocart2600-pcb
-A PCB for the Unocart2600
+Unocart2600 PCB
+===============
+Licensed under CERN OHL 1.2. See LICENSE.txt for more information.
