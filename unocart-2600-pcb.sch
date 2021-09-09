@@ -971,4 +971,17 @@ Wire Wire Line
 Connection ~ 7550 5700
 Wire Wire Line
 	7550 5700 7550 5800
+Text Notes 500  8000 0    50   ~ 0
+Copyright Randy Glenn 2021.\n\nThis documentation describes Open Hardware and is licensed under the\nCERN OHL v. 1.2.\n\nYou may redistribute and modify this documentation under the terms of the\nCERN OHL v.1.2. (http://ohwr.org/cernohl). This documentation is distributed\nWITHOUT ANY EXPRESS OR IMPLIED WARRANTY, INCLUDING OF\nMERCHANTABILITY, SATISFACTORY QUALITY AND FITNESS FOR A\nPARTICULAR PURPOSE. Please see the CERN OHL v.1.2 for applicable\nconditions
+$Comp
+L Graphic:Logo_Open_Hardware_Small #LOGO1
+U 1 1 613A1569
+P 750 6900
+F 0 "#LOGO1" H 750 7175 50  0001 C CNN
+F 1 "Logo_Open_Hardware_Small" H 750 6675 50  0001 C CNN
+F 2 "Symbol:OSHW-Symbol_8.9x8mm_SilkScreen" H 750 6900 50  0001 C CNN
+F 3 "~" H 750 6900 50  0001 C CNN
+	1    750  6900
+	1    0    0    -1  
+$EndComp
 $EndSCHEMATC
